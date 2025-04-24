@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <link rel="icon" href="./icons/256.png" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>サーバーステータス</title>
+    <link rel="stylesheet" href="./styles.css">
+    <style>
+        html, body {
+            width: 500px;
+            min-width: 400px;
+            height: 600px;
+            min-height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>サーバーステータス</h1>
+        <ul id="serverList"></ul>
+
+        <div class="input-group">
+            <input type="text" id="serverUrl" placeholder="http://example.com or 192.168.1.1">
+            <button id="addServer">追加</button>
+        </div>
+    </div>
+
+    <script src="./sidebar.js"></script>
+</body>
+</html>
