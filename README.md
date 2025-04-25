@@ -18,3 +18,8 @@
 
 以下の素材を使用しています。  
 [ICOOON MONO メーターアイコン9](https://icooon-mono.com/13352-%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B39/)
+
+## ライセンス
+
+このプロジェクトは [MIT License](./LICENSE) のもとで公開されています。  
+Copyright (c) 2025 Unknown
