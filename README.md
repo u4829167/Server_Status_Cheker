@@ -1,4 +1,4 @@
-# Server-Status-Checker
+# Server Status Checker
 
 **複数のサーバーの稼働状況をリアルタイムでチェックできる Chrome 拡張機能です。**
 
