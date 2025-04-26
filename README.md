@@ -22,4 +22,3 @@
 ## ライセンス
 
 このプロジェクトは [MIT License](./LICENSE) のもとで公開されています。  
-Copyright (c) 2025 Unknown
